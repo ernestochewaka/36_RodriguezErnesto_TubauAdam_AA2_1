@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\ernes\desktop\36_rodriguezernesto_tubauadam_aa2_1\36_rodriguezernesto_tubauadam_aa2_1\main.cpp(54): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Map.cpp
+  Player.cpp
+  Enemy.cpp
+  Generando código...
+  36_RodriguezErnesto_TubauAdam_AA2_1.vcxproj -> C:\Users\ernes\Desktop\36_RodriguezErnesto_TubauAdam_AA2_1\Debug\36_RodriguezErnesto_TubauAdam_AA2_1.exe
